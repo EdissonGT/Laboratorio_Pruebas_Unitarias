@@ -1,0 +1,11 @@
+C:\Users\EDISSON\source\repos\Laboratorio1\Laboratorio1\bin\Debug\net8.0\EjemploListaEnlazada2.deps.json
+C:\Users\EDISSON\source\repos\Laboratorio1\Laboratorio1\bin\Debug\net8.0\EjemploListaEnlazada2.dll
+C:\Users\EDISSON\source\repos\Laboratorio1\Laboratorio1\bin\Debug\net8.0\EjemploListaEnlazada2.pdb
+C:\Users\EDISSON\source\repos\Laboratorio1\Laboratorio1\obj\Debug\net8.0\EjemploListaEnlazada2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDISSON\source\repos\Laboratorio1\Laboratorio1\obj\Debug\net8.0\EjemploListaEnlazada2.AssemblyInfoInputs.cache
+C:\Users\EDISSON\source\repos\Laboratorio1\Laboratorio1\obj\Debug\net8.0\EjemploListaEnlazada2.AssemblyInfo.cs
+C:\Users\EDISSON\source\repos\Laboratorio1\Laboratorio1\obj\Debug\net8.0\EjemploListaEnlazada2.csproj.CoreCompileInputs.cache
+C:\Users\EDISSON\source\repos\Laboratorio1\Laboratorio1\obj\Debug\net8.0\EjemploListaEnlazada2.dll
+C:\Users\EDISSON\source\repos\Laboratorio1\Laboratorio1\obj\Debug\net8.0\refint\EjemploListaEnlazada2.dll
+C:\Users\EDISSON\source\repos\Laboratorio1\Laboratorio1\obj\Debug\net8.0\EjemploListaEnlazada2.pdb
+C:\Users\EDISSON\source\repos\Laboratorio1\Laboratorio1\obj\Debug\net8.0\ref\EjemploListaEnlazada2.dll
